@@ -1,0 +1,70 @@
+#experience{
+    overflow: hidden;
+    width: 100vw;
+    max-width: 65rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 5rem;
+}
+.expTitle{
+    font-size: 3rem;
+    font-weight: 600;
+    padding-top: 2rem;
+    margin-bottom: 1rem;
+}
+.expDesc{
+    font-weight: 300;
+    font-size: 1rem;
+    max-width: 51rem;
+    padding: 0 2rem;
+}
+.expBars{
+    margin: 1.5rem;
+    width: 100vw;
+    max-width: 80%;
+    text-align: left;
+}
+.expBar{
+    display: flex;
+    margin: 1rem;
+    padding: 1.5rem 2rem;
+    border-radius: 0.5rem;
+    background-color: rgb(50 , 50, 50);
+}
+.expBarImg{
+    object-fit: contain;
+    height: 3rem;
+    width: 3rem;
+    margin-right: 2rem;
+}
+.expBarText>p {
+    font-size: 1rem;
+    font-weight: 200;
+}
+
+@media screen and (max-width: 720px) {
+    .skillBarText>p{
+        font-size: 2vw;
+    }
+    
+}
+
+@media screen and (max-width: 480px) {
+    .expBarText>p{
+        font-size: 3vw;
+    }
+    .expBarImg{
+        height: 2.25rem;
+        width: 2.25rem;
+    }
+    .expBarText>h2{
+        font-size: 5vw;
+    }
+    
+}
+
+

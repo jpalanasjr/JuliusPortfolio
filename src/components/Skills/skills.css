@@ -1,0 +1,33 @@
+#skillsPage{
+    min-height: calc(100vh - 4rem);
+    width: 100vw;
+    max-width: 60rem;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.techTitle{
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.techImgs{
+    margin: 1rem 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+.techImg{
+   object-fit: cover;
+    width: 5%;
+    min-width: 9rem;
+    margin: auto;
+    padding: 0.25rem;
+}
+
+.tech{
+    padding: 2rem;
+}
