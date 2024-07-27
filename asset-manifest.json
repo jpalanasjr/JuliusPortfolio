@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/JuliusPortfolio/static/css/main.ccf69c2e.css",
+    "main.js": "/JuliusPortfolio/static/js/main.7cf6134c.js",
+    "static/media/ldcu.png": "/JuliusPortfolio/static/media/ldcu.3b91fef56843a0ee7375.png",
+    "static/media/rcc.png": "/JuliusPortfolio/static/media/rcc.da7091127b060f9aa375.png",
+    "static/media/css.png": "/JuliusPortfolio/static/media/css.30eba756a36410aa3b40.png",
+    "static/media/wp.png": "/JuliusPortfolio/static/media/wp.4add4832d44a2cba1bc6.png",
+    "static/media/react.png": "/JuliusPortfolio/static/media/react.6c8b257a2ac871d0fa22.png",
+    "static/media/html.png": "/JuliusPortfolio/static/media/html.2ce50dd6e444bc44b86d.png",
+    "static/media/tyler.png": "/JuliusPortfolio/static/media/tyler.c417c7d5b9ccfd44a1d1.png",
+    "static/media/sti.png": "/JuliusPortfolio/static/media/sti.627b6b45c9c585230fa8.png",
+    "static/media/canva.png": "/JuliusPortfolio/static/media/canva.e774cd393943b684dda6.png",
+    "static/media/unisys1.png": "/JuliusPortfolio/static/media/unisys1.ebe358071e56b40e4911.png",
+    "static/media/js.png": "/JuliusPortfolio/static/media/js.9f0f84dd77ac2f3c61bc.png",
+    "index.html": "/JuliusPortfolio/index.html",
+    "main.ccf69c2e.css.map": "/JuliusPortfolio/static/css/main.ccf69c2e.css.map",
+    "main.7cf6134c.js.map": "/JuliusPortfolio/static/js/main.7cf6134c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccf69c2e.css",
+    "static/js/main.7cf6134c.js"
+  ]
+}
