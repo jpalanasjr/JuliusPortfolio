@@ -5,7 +5,7 @@ import js from "../../assets/js.png";
 import react from "../../assets/react.png";
 import wp from "../../assets/wp.png";
 import canva from "../../assets/canva.png"
-
+import fb from "../../assets/firebase.png"
 
 const Skills = () =>{
     return(
@@ -21,6 +21,7 @@ const Skills = () =>{
                 <img src={wp} alt='' className='techImg' />
                 <img src={css} alt='' className='techImg' />
                 <img src={canva} alt='' className='techImg' />
+                <img src={fb} alt='' className='techImg' />
 
             </div>
 
